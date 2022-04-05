@@ -1,0 +1,32 @@
+
+
+.p1 {
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+    margin-top: 10%;
+}
+div.a {
+    position: relative;
+    width: 100%;
+}
+div.b {
+    position: absolute;
+    left: 16%;
+    margin-top: 12px;
+    width: 70%;
+    height: 400px;
+    background: url('img/pc.webp') no-repeat center center/cover;
+}
+.form {
+    position: absolute;
+    margin-left: 35%;
+    margin-top: 2%;
+}
+.btn {
+    margin-top: 35px;
+    margin-left: 110px;
+    background-color: #99e6ff;
+}
+.h {
+    text-align: right;
+}
